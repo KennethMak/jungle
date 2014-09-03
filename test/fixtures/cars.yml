@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  make: MyString
+  summary: MyText
+  price_in_dollars: 1
+
+two:
+  make: MyString
+  summary: MyText
+  price_in_dollars: 1
